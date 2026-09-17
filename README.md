@@ -18,5 +18,4 @@ An interactive Rock Paper Scissors game built with HTML, CSS and JavaScript.
 2. Open index.html in your browser
 3. Choose Rock, Paper or Scissors
 4. See who wins!!
-
-## Live Demo
+5. 
